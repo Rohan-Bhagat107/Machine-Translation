@@ -1,2 +1,2 @@
 # Machine-Translation
-In this project we are taking user input for folder containing excel files having English and Japanese data. In this project Japanese is considered as a source language and English as the target. 
+In this project we are taking user input for folder containing excel files having English and Japanese data. In this project Japanese is considered as a source language and English as the target. Now we are converting this Japanese data into English using google translator and based on that we are calculating the match percentage and the edit distance between our English data and the English data received from the google translator and at the end we are filtering the data based on edit distance as above 20 and below 20 edit distance.
